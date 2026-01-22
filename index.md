@@ -2,32 +2,28 @@
 layout: default
 ---
 
-# 👋 Hi, I'm Mian Wu
+# 👋 Hi, I'm Yu Qi
 
-I'm a **Master's student** at [Xi’an Jiaotong University](https://www.xjtu.edu.cn), advised by Prof. Xiuxiu Bai.  
-My research focuses on **deep learning**, **computer vision**, and **text-to-image generation**.
+Currently pursuing a **Master's degree** at [Xi’an Jiaotong University](https://www.xjtu.edu.cn) under the mentorship of Prof. Qiuwang Wang, my research focuses on leveraging Computer Vision and Deep Learning frameworks to advance Concentrating Solar Power (CSP) technologies.
 
 ---
 
 ## 🔬 Research Interests
-- Generative Models (Diffusion Models, GANs)
-- Vision-Language Pretraining
-- Efficient Model Design
-- Evaluation of Generated Content
+- Computer Vision and Deep Learning for Concentrating Solar Power (CSP)
+- Vision-Based Monitoring and Control in Renewable Energy Systems
+- Efficient Deep Learning Architectures for Industrial Applications
+- AI-Driven Optimization of CSP Plant Performance
 
 ---
 
 ## 🧪 Projects
 
-### 🖼️ Text-to-Image Generation Framework
-A lightweight diffusion-based model for high-quality image synthesis from text prompts.  
-[GitHub](https://github.com/MianWu-Lab/t2i-framework)
+### 🖼️ Coming soon
 
 ---
 
 ## 📩 Contact
-- Email: [wumianan@163.com](mailto:wumianan@163.com)
-- school_email: [wumian@stu.xjtu.edu.cn](mailto:wumian@stu.xjtu.edu.cn)
-- GitHub: [@MianWu-Lab](https://github.com/MianWu-Lab)
+- Email: [937822177@stu.xjtu.edu.cn](mailto:937822177@stu.xjtu.edu.cn)
+- GitHub: [@qiyu0107](https://github.com/qiyu0107)
 
 > "The best way to predict the future is to invent it." — Alan Kay
