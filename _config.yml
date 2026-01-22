@@ -1,0 +1,32 @@
+# Site settings
+title: Mian Wu – Personal Website
+email: wumianan@163.com
+school_email: wumian@stu.xjtu.edu.cn
+description: >
+  Personal website of Mian Wu, a Master's student at Xi’an Jiaotong University.
+  Research interests: deep learning, computer vision, and text-to-image generation.
+
+# URL settings
+url: "https://MianWu-Lab.github.io"
+baseurl: ""
+
+# Author info (used in footer and meta)
+author:
+  name: Mian Wu
+  affiliation: Xi’an Jiaotong University
+  email: wumianan@163.com
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-slate  # 更现代、适合学术/技术展示的主题
+
+# Plugins (GitHub Pages 默认支持)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
