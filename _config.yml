@@ -1,20 +1,19 @@
 # Site settings
-title: Mian Wu – Personal Website
-email: wumianan@163.com
-school_email: wumian@stu.xjtu.edu.cn
+title: Yu Qi – Personal Website
+email: 937822177@stu.xjtu.edu.cn
 description: >
-  Personal website of Mian Wu, a Master's student at Xi’an Jiaotong University.
-  Research interests: deep learning, computer vision, and text-to-image generation.
+  Personal website of Yu Qi, a Master's student at Xi’an Jiaotong University.
+  Research interests: Deep Learning, Computer Vision, and Concentrating Solar Power (CSP) systems.
 
 # URL settings
-url: "https://MianWu-Lab.github.io"
+url: "https://qiyu0107.github.io"
 baseurl: ""
 
 # Author info (used in footer and meta)
 author:
-  name: Mian Wu
+  name: Yu Qi
   affiliation: Xi’an Jiaotong University
-  email: wumianan@163.com
+  email: 937822177@stu.xjtu.edu.cn
 
 # Build settings
 markdown: kramdown
